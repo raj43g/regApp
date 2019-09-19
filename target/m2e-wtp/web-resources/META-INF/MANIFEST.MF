@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Rajkumar
+Build-Jdk: 11.0.2
+Implementation-Title: RegistrationApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.happy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/RegistrationApp
+Created-By: Maven Integration for Eclipse
+
